@@ -52,12 +52,12 @@
 
 #define USB_VID           0x0000
 #define USB_PID           0x0000
-#define USB_MANUFACTURER  "Adafruit"
-#define USB_PRODUCT       "Dummy"
+#define USB_MANUFACTURER  "FrostCat"
+#define USB_PRODUCT       "Weact-STM32G474-CoreBoard"
 
 #define UF2_PRODUCT_NAME  USB_MANUFACTURER " " USB_PRODUCT
-#define UF2_BOARD_ID      "Dummy"
-#define UF2_VOLUME_LABEL  "DUMMYBOOT"
+#define UF2_BOARD_ID      "G474CB"
+#define UF2_VOLUME_LABEL  "G474CBBOOT"
 #define UF2_INDEX_URL     "https://www.adafruit.com"
 
 //--------------------------------------------------------------------+
